@@ -4,8 +4,8 @@
     "pub_date": "2026-03-17T12:00:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OWdRZWJUZU1OckNpU3NnZklxYS9qbk5qenQ3NmMvOWE3WWVISHlTNDZmWDJZbUdoTTd6Wm5kL3NCS2xlYStaSWhVYlREbC81NVBxSUd2ZExldjdqb1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzUwMjk3CWZpbGU6ZXJwLWRlc2t0b3BfMC4xLjBfeDY0LXNldHVwLmV4ZQpoZFQyT2IwTldnU3BXSHJaSzdXS1h0amVGanJzVWU1T2JQY2sxRFhlRnBnOTFTd1g2S3k4dWV5UWxZNERiY212RTJvNHg2V0NRR0VWY0drM1RMdzVEdz09Cg==",
-        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.0.1/erp-desktop_0.1.0_x64-setup.exe"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OWdrd2tUM3ozMGhvN1VCM1VCWFJ3aXZRN2l5bW1ZbDBDUTBMZ3pJUkxGUmovV1ZRTVREemNDOFBvTWNtcHU1L29QRVRTQzFZd0U1TGJEejh5dzNBTEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczNzUyNDM4CWZpbGU6ZXJwLWRlc2t0b3BfMC4xLjFfeDY0LXNldHVwLmV4ZQpKSFlQNVEyQ1NUQ3JuV29ZUFI2T1BVaGc4a3JqMTdKRkJaSFBWWDFJWm9zL3orSGY5STc1VytxU2FWTW1iM2d0L1NOeCsxWWhJUCtYNUk5alFSWE9Bdz09Cg==",
+        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.0.1/erp-desktop_0.1.1_x64-setup.exe"
       }
     }
   }
