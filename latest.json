@@ -1,11 +1,11 @@
 {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "notes": "Pierwsza pełna wersja aplikacji ERP Desktop",
-    "pub_date": "2026-03-18T13:50:00Z",
+    "pub_date": "2026-03-18T14:45:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OW9NVHA3bkF5L3p5L0dQWnBRemNicFNGc2xYN0dkMDZqaXpEajVwZy9TTUo1N2Ywc3JsTUJ3WHV6WWFPY1FaaE9PSG5vNXYvaUUvV08rSWVpaExmS1E4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczODM5MTAwCWZpbGU6ZXJwLWRlc2t0b3BfMS4wLjFfeDY0LXNldHVwLmV4ZQpISHRjRzFMZjRXNUU2VHAwQStTYklhVW9sQStETUxQdityT1dtK2NIVFdCVmtOOW56eWJFcDM1UkpYUDVqUkUxRDN4VnJEeklTT1FiVzVPZEFubzhBQT09Cg==",
-        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.0.1/erp-desktop_1.0.1_x64-setup.exe"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OWtvbmhueCtacFNnVUdOTCtOVkM1ZGFvZTRxeVFwWVd0ZGNFNnE0Z3h1UEQ1L3VSSndJayswbEozcXVUeWdrcW9aK1Z5TTJUVmkzU2xiUjdmbm5LdHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczODQxNjI4CWZpbGU6ZXJwLWRlc2t0b3BfMS4xLjBfeDY0LXNldHVwLmV4ZQpxcUJ0MEtrNGxOM3M1cm9VbXFtbFhRdldIYzk1bkJSTklKYjV3cWlEeTNiUk5rRjcwS2w2dE9tcSt3eFZWeFpJU3M5QWFEcTk4NTREQnR2TGVmQnBCZz09Cg==",
+        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.1.0/erp-desktop_1.1.0_x64-setup.exe"
       }
     }
   }
