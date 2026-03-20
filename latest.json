@@ -1,11 +1,11 @@
 {
-    "version": "1.2.0",
-    "notes": "Wersja 1.2.0 - Poprawki błędów kompatybilności z windows 10",
-    "pub_date": "2026-03-20T10:30:00Z",
+    "version": "1.2.1",
+    "notes": "Wersja 1.2.1 - Oznaczenia stron pod względem bezpieczeństwa (HTTPS, HTTP, certyfikat aktywny/nieaktywny)",
+    "pub_date": "2026-03-20T12:30:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OWpLNUEvODBUQ0dkQlYvOE1YeHhPRWgydyt2L05XdnNMZ2xHN2VBOEJKUGNPanV2ZjVnVGprcnNQMkI1VTBINzI2aEpoQ0dEWTlxdEl1SzVGSWJ2andvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczOTk4NTQ2CWZpbGU6ZXJwLWRlc2t0b3BfMS4yLjBfeDY0LXNldHVwLmV4ZQpOK0pkRnIrUURHZnJqZERKa0NqaTE3T21VNTFONC8vSWs5SVltdE9DTHNmREFpSG9aQVVoM0FBYkNKK092NmFZVTFZRDdlblQySnR0b2lsdUFaZmdBUT09Cg==",
-        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.2.0/erp-desktop_1.2.0_x64-setup.exe"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OWtjWVgzSXZ1cGU5K0UxcUlsR2txRXVvaE5NaDhXNk8veHprRTRQZlFUSkswZWdYaFJ2M1ZyWkZsek9TM2FOZ0xUWkp4TG9CaEQ4VDVKV1o1QU1pYlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MDA2MzczCWZpbGU6ZXJwLWRlc2t0b3BfMS4yLjFfeDY0LXNldHVwLmV4ZQpSWmNLalV5VHltODJsUFYrL0p6NXlDUUFDWVljQ0ZrNWY0MDV5Y0ZGby9xaEpWZHBpdlJOMEdtNXoxWm5JTDhrM0NSUm84YTdleXVhV0k4WEE4QjZCUT09Cg==",
+        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.2.1/erp-desktop_1.2.1_x64-setup.exe"
       }
     }
   }
