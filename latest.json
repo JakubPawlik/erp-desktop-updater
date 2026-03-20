@@ -1,11 +1,11 @@
 {
-    "version": "1.1.1",
-    "notes": "Pierwsza pełna wersja aplikacji ERP Desktop",
-    "pub_date": "2026-03-18T15:10:00Z",
+    "version": "1.2.0",
+    "notes": "Wersja 1.2.0 - Poprawki błędów kompatybilności z windows 10",
+    "pub_date": "2026-03-20T10:30:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OXFzZUJnTkJ3RXJlTGo0dkNrWC9mcGQwU1ZrTUYxakxxaUZ3RUE4VkF4T1V1eWN3emxuZFE3UDMzTlBWS1pBeGtrMnJrempDOG9YaEw2QTNkeUV4NGdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczODQzMDAzCWZpbGU6ZXJwLWRlc2t0b3BfMS4xLjFfeDY0LXNldHVwLmV4ZQo3ZFMyeWFuRWh3R21POTFVaTBNMG4zQ2ZIbkZNVzJiamdPMXZUZStQVzh0STZlY1o5bUk2eGtPSW1sbnNJd1dVeHZ2bFJWK2Q2cEVKVnNnVTRpRlZCUT09Cg==",
-        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.1.1/erp-desktop_1.1.1_x64-setup.exe"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OWpLNUEvODBUQ0dkQlYvOE1YeHhPRWgydyt2L05XdnNMZ2xHN2VBOEJKUGNPanV2ZjVnVGprcnNQMkI1VTBINzI2aEpoQ0dEWTlxdEl1SzVGSWJ2andvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzczOTk4NTQ2CWZpbGU6ZXJwLWRlc2t0b3BfMS4yLjBfeDY0LXNldHVwLmV4ZQpOK0pkRnIrUURHZnJqZERKa0NqaTE3T21VNTFONC8vSWs5SVltdE9DTHNmREFpSG9aQVVoM0FBYkNKK092NmFZVTFZRDdlblQySnR0b2lsdUFaZmdBUT09Cg==",
+        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.2.0/erp-desktop_1.2.0_x64-setup.exe"
       }
     }
   }
