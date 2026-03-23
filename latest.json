@@ -1,11 +1,11 @@
 {
-    "version": "1.2.1",
-    "notes": "Wersja 1.2.1 - Oznaczenia stron pod względem bezpieczeństwa (HTTPS, HTTP, certyfikat aktywny/nieaktywny)",
-    "pub_date": "2026-03-20T12:30:00Z",
+    "version": "1.2.2",
+    "notes": "Wersja 1.2.2 - Wyświetlanie aplikacji przy autostarcie",
+    "pub_date": "2026-03-23T14:00:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OWtjWVgzSXZ1cGU5K0UxcUlsR2txRXVvaE5NaDhXNk8veHprRTRQZlFUSkswZWdYaFJ2M1ZyWkZsek9TM2FOZ0xUWkp4TG9CaEQ4VDVKV1o1QU1pYlFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MDA2MzczCWZpbGU6ZXJwLWRlc2t0b3BfMS4yLjFfeDY0LXNldHVwLmV4ZQpSWmNLalV5VHltODJsUFYrL0p6NXlDUUFDWVljQ0ZrNWY0MDV5Y0ZGby9xaEpWZHBpdlJOMEdtNXoxWm5JTDhrM0NSUm84YTdleXVhV0k4WEE4QjZCUT09Cg==",
-        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.2.1/erp-desktop_1.2.1_x64-setup.exe"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OW42MjRtblJxejFuQjE2b0N2YTh2NXdpb0NkVUtYTTZ6SUJMdW9FMmlOZlp6Sk40SzkzMlJneVExbG10dDg2QXJnaGo0QzVHQVp2N2Mvd1FtNjIvL3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjY5ODI5CWZpbGU6ZXJwLWRlc2t0b3BfMS4yLjJfeDY0LXNldHVwLmV4ZQpKOTdLNkJkK2ZHYmFnWlVCOHZNMG1NNjlqbitIUVdSU1Mwd2pqSjZPNDltTUNDcUd6dTNFd0xQV0V5VGcralFIRUlSNkMwaEJHdTFhN09Yd3hTTEdCQT09Cg==",
+        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.2.2/erp-desktop_1.2.2_x64-setup.exe"
       }
     }
   }
