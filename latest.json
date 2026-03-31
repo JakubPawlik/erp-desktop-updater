@@ -1,11 +1,11 @@
 {
-    "version": "1.2.2",
-    "notes": "Wersja 1.2.2 - Wyświetlanie aplikacji przy autostarcie",
-    "pub_date": "2026-03-23T14:00:00Z",
+    "version": "1.2.3",
+    "notes": "Wersja 1.2.3 - Poprawki dla wyświetlania stron klientów w wyskakującym oknie",
+    "pub_date": "2026-03-31T12:30:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OW42MjRtblJxejFuQjE2b0N2YTh2NXdpb0NkVUtYTTZ6SUJMdW9FMmlOZlp6Sk40SzkzMlJneVExbG10dDg2QXJnaGo0QzVHQVp2N2Mvd1FtNjIvL3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0MjY5ODI5CWZpbGU6ZXJwLWRlc2t0b3BfMS4yLjJfeDY0LXNldHVwLmV4ZQpKOTdLNkJkK2ZHYmFnWlVCOHZNMG1NNjlqbitIUVdSU1Mwd2pqSjZPNDltTUNDcUd6dTNFd0xQV0V5VGcralFIRUlSNkMwaEJHdTFhN09Yd3hTTEdCQT09Cg==",
-        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.2.2/erp-desktop_1.2.2_x64-setup.exe"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OW5rUGZqdWJBNHdYS2trSGhKanBUUXdZdWVBaXg1NlAzNUw2V1ZYODZ5VitXNnovSCt3VTNwa2hBMlRVaVhoUGkzRitQbWhkVXcyR2lmc0ZabnNWT0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0OTUyNTc1CWZpbGU6ZXJwLWRlc2t0b3BfMS4yLjNfeDY0LXNldHVwLmV4ZQpTSFBlVHBTRVhFRHRqQ093S0lmamF5VlFFbkRyTjl0c2NwREhkVkRNaWJ1ZmdpNk9jQjdGdGhEY25HSGdXZHFMK3JVMEhud3dyWTZQSGZNb2N6NDNDQT09Cg==",
+        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.2.3/erp-desktop_1.2.3_x64-setup.exe"
       }
     }
   }
