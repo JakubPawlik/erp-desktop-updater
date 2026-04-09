@@ -1,11 +1,11 @@
 {
-    "version": "1.2.3",
-    "notes": "Wersja 1.2.3 - Poprawki dla wyświetlania stron klientów w wyskakującym oknie",
-    "pub_date": "2026-03-31T12:30:00Z",
+    "version": "1.2.4",
+    "notes": "Wersja 1.2.4 - Poprawki stabilności aplikacji",
+    "pub_date": "2026-04-09T19:30:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OW5rUGZqdWJBNHdYS2trSGhKanBUUXdZdWVBaXg1NlAzNUw2V1ZYODZ5VitXNnovSCt3VTNwa2hBMlRVaVhoUGkzRitQbWhkVXcyR2lmc0ZabnNWT0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0OTUyNTc1CWZpbGU6ZXJwLWRlc2t0b3BfMS4yLjNfeDY0LXNldHVwLmV4ZQpTSFBlVHBTRVhFRHRqQ093S0lmamF5VlFFbkRyTjl0c2NwREhkVkRNaWJ1ZmdpNk9jQjdGdGhEY25HSGdXZHFMK3JVMEhud3dyWTZQSGZNb2N6NDNDQT09Cg==",
-        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.2.3/erp-desktop_1.2.3_x64-setup.exe"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OWlWTmJmMjlZRGRMRjdQc2poWjFKTWRBSXlpcEYrN2tGelVzOTFwS3VqZDJkWU00M2FkdDIrYmhXNGZEMFdxRUFtQndmVnpmY3FmNitJeGdVZGNYVHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzUzNzA1CWZpbGU6ZXJwLWRlc2t0b3BfMS4yLjRfeDY0LXNldHVwLmV4ZQpORXhkNk8wbVNDZnJEQ3dQallNS1R0cWVhN3ljRGdSenVNdWtGMXRhdEh2Tk44WUxrTklucnR3QWRMNXVlRFF0dEluTGhhUTh1UUVLVkZPUVMvMHFDQT09Cg==",
+        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.2.4/erp-desktop_1.2.4_x64-setup.exe"
       }
     }
   }
