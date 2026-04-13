@@ -1,11 +1,11 @@
 {
-    "version": "1.2.4",
-    "notes": "Wersja 1.2.4 - Poprawki stabilności aplikacji",
-    "pub_date": "2026-04-09T19:30:00Z",
+    "version": "1.2.5",
+    "notes": "Wersja 1.2.5 - Poprawki z wyskakującymi oknami, okna raportów",
+    "pub_date": "2026-04-13T11:15:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OWlWTmJmMjlZRGRMRjdQc2poWjFKTWRBSXlpcEYrN2tGelVzOTFwS3VqZDJkWU00M2FkdDIrYmhXNGZEMFdxRUFtQndmVnpmY3FmNitJeGdVZGNYVHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NzUzNzA1CWZpbGU6ZXJwLWRlc2t0b3BfMS4yLjRfeDY0LXNldHVwLmV4ZQpORXhkNk8wbVNDZnJEQ3dQallNS1R0cWVhN3ljRGdSenVNdWtGMXRhdEh2Tk44WUxrTklucnR3QWRMNXVlRFF0dEluTGhhUTh1UUVLVkZPUVMvMHFDQT09Cg==",
-        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.2.4/erp-desktop_1.2.4_x64-setup.exe"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OXFIei9EeHVyQWF6MDUrK252WVp1c1hhdFNualdhT0QwSENmM1M5WG5pWWwxOWh4N0dTSnpwNmNZTEpSSGpjWXQ1a20vK05KZlFIQ3J4Nit4SW8vdUFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MDcxNjY5CWZpbGU6ZXJwLWRlc2t0b3BfMS4yLjVfeDY0LXNldHVwLmV4ZQpBNGpoT0ZqbjlIOWFMMDlPOTNWN1NObmFPajB4Ni9Sd1grZmRIb0lWRVZDZlZVYzRNeEFPMG9sZHk5M0xQOC9WbWhDZGRhczY3akJzV2J6KzNmbzFDUT09Cg==",
+        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.2.5/erp-desktop_1.2.5_x64-setup.exe"
       }
     }
   }
