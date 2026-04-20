@@ -1,11 +1,11 @@
 {
-    "version": "1.2.6",
-    "notes": "Wersja 1.2.6 - Watchdog frozen webview + auto-recovery",
-    "pub_date": "2026-04-14T22:02:00Z",
+    "version": "1.2.7",
+    "notes": "Wersja 1.2.7 - naprawa kilku błędów oraz kasowanie sesji przy włączaniu aplikacji",
+    "pub_date": "2026-04-20T11:25:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OXQzU1VRNDU0VEYyZDRMWFgyait4Q0NXZkY2MG1BejJWVEVIdHZTdXZHM0NvcHVET1NScy9PL3RzMXlKd1UzMjlhYTVBclV5WjBSTXZaZTBnV3lyVVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2MTk2ODU3CWZpbGU6ZXJwLWRlc2t0b3BfMS4yLjZfeDY0LXNldHVwLmV4ZQphOGN2bU4yT1RCMTJ2UjZFdXpURFVhczdJV3pIUGMxR085S055amg2em9URERPVzQrbjdXNUtZWW5IWWdkQzFLZWRRQWxDSE1HMm9lYnl6eFBJMXRCZz09Cg==",
-        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.2.6/erp-desktop_1.2.6_x64-setup.exe"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OXRacTAxdnBjb3V1d2tnMDlaeEpRNWZhZ2hvU2lPdG85eVZzWkNFN0ttcEZVWEhDYTMybGplYzR6OUlZMTA4TXlIQnlXNE9JaGZWUS9XQm56d01OMHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Njc1NTMwCWZpbGU6ZXJwLWRlc2t0b3BfMS4yLjdfeDY0LXNldHVwLmV4ZQpnc1lodUVRYWdOM3VuaVhZRUJJM0NBNGlvUDRsdndZMERCR2NqLzdFeG9MNXh0NTYrUGxKejFuVnpRaGdpenVGWGM0V2lJUFNVcjZxSk96cndxVlVBQT09Cg==",
+        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.2.7/erp-desktop_1.2.7_x64-setup.exe"
       }
     }
   }
