@@ -1,11 +1,11 @@
 {
-    "version": "1.2.7",
-    "notes": "Wersja 1.2.7 - naprawa kilku błędów oraz kasowanie sesji przy włączaniu aplikacji",
-    "pub_date": "2026-04-20T11:25:00Z",
+    "version": "1.3.0",
+    "notes": "Wersja 1.3.0 - naprawa kilku błędów związanych z refresh oraz przechowaniem cache oraz auto update",
+    "pub_date": "2026-04-22T13:00:00Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OXRacTAxdnBjb3V1d2tnMDlaeEpRNWZhZ2hvU2lPdG85eVZzWkNFN0ttcEZVWEhDYTMybGplYzR6OUlZMTA4TXlIQnlXNE9JaGZWUS9XQm56d01OMHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2Njc1NTMwCWZpbGU6ZXJwLWRlc2t0b3BfMS4yLjdfeDY0LXNldHVwLmV4ZQpnc1lodUVRYWdOM3VuaVhZRUJJM0NBNGlvUDRsdndZMERCR2NqLzdFeG9MNXh0NTYrUGxKejFuVnpRaGdpenVGWGM0V2lJUFNVcjZxSk96cndxVlVBQT09Cg==",
-        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.2.7/erp-desktop_1.2.7_x64-setup.exe"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OWhTNjhpM3lWZ1hMVU5tMFN1NXdmeHlGWERSZzVHL0tvb1FJalZzUmJ1TlJkc3JhY0ZNTjY4TVRzNmErbWM5cmc1ajJheVAvaGI0bk5Ga2lXb0ZVdmdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2ODU1MzA3CWZpbGU6ZXJwLWRlc2t0b3BfMS4zLjBfeDY0LXNldHVwLmV4ZQppNlArTHN6VmJteHhpUFduZGZsQVB6cHExRGQwbUN6WVdnVmh4bXFWRTF3MUpNZGhmTk93MW1SQVpnbWtXc0NrYm94NlpGS1ZYaFFHN1dOUDVqQTZEdz09Cg==",
+        "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.3.0/erp-desktop_1.3.0_x64-setup.exe"
       }
     }
   }
