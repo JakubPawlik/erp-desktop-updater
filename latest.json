@@ -1,10 +1,10 @@
 {
-  "version": "1.3.2",
-  "notes": "Wersja 1.3.2 - naprawa kilku błędów z logów",
-  "pub_date": "2026-04-24T14:00:00Z",
+  "version": "1.3.3",
+  "notes": "Wersja 1.3.3 - Wyskakujące okna w nowm procesie",
+  "pub_date": "2026-05-19T11:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OXVMUjcyY0ZQcERrSzZPSXJQQzZRakdKd2dzNVpId3NjTXRSODg2RXZHTFROVlkvb2lkRytUYnhCTGtQWldJL2lqYllxZkYxUHFXTjlxeDJFcXZ1SFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc3MDI4MjA5CWZpbGU6ZXJwLWRlc2t0b3BfMS4zLjJfeDY0LXNldHVwLmV4ZQo1K1pFUkRQL29LRG12bmhnSHVibUllRnhza3JZQ2hJY3ZCRTk4aTQ0RUcwTEtIOVRET1dRSDZ2elA0cTJ6dURkRGhKcjFBQWYzZ21LS0VybndUblZEQT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OXNyZ3JwK21BMW5ETHhvSXVUb0dCU2w5bS9tRW1KYWc2dGpZZjEzTXdOTEpFZ05ybDN2U3MrNE1QYklBb2ZXU1ljTDA3MUJvS21CdUlwNEwwQWNIN0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTc5NTU1CWZpbGU6ZXJwLWRlc2t0b3BfMS4zLjNfeDY0LXNldHVwLmV4ZQpldkFVZk13d3UrZWlGN241NU5vSVBMOFkrTmNzeFZhM2JQT2NhbWsvQnl2OFJxOU1rRzVFd2tUdy9KdkZiV3NmQ25aYlI4WGVQOGFVdFNtZmVudVVDQT09Cg==",
       "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.3.2/erp-desktop_1.3.2_x64-setup.exe"
     }
   }
