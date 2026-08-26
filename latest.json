@@ -1,11 +1,11 @@
 {
-  "version": "1.3.4",
-  "notes": "Wersja 1.3.4 - Pingi diagnostyczne",
-  "pub_date": "2026-05-19T15:50:00Z",
+  "version": "1.3.5",
+  "notes": "Wersja 1.3.5 - Flagi i inne takie",
+  "pub_date": "2026-08-26T13:40:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OXVtR0RZNXA0eGFJUkdaS1ZHZXlpRTdHRUw0ZXA1USswYjJ3VlVyN0VGbjJCbmdUMVdBS3NDVDRNS2h2amprTlAyaFNJL3pZOXMySmpxSkpTSTFmeWdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc5MTk3NzcxCWZpbGU6ZXJwLWRlc2t0b3BfMS4zLjRfeDY0LXNldHVwLmV4ZQphS1FjdzlqQm02UGZjWDRrbi9QMWw0TndSRytJM3lXWXRzc2VHNU1wTkhFZVFidnNETXZnK0lJcWZ0YmJFbmZBNktDNmx2TlBRYU5RSXA4anc2WDJEQT09Cg==",
-      "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.3.4/erp-desktop_1.3.4_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OXFNUTg4MVdNazNrZkhzc0tBbjBHeG04Uy9NQVdOZUFlTDU1eVRYWGZiL0wwbTQreG51THFlZUlWbWNzclVOd1JGcHczWVFYSzRVYitYem5pWVVlK1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzQ0MTg2CWZpbGU6ZXJwLWRlc2t0b3BfMS4zLjVfeDY0LXNldHVwLmV4ZQpzTDFyWWp2OE1Xay9TYlhlTzVuYnBkRmZBRk42L3JGQlZtMkxrVmY5ZS93VnVPY09zZWUrcDFpdkxkaWF0WWhybHlzeG4yempyWDVBTUFsc0Z1NUFDUT09Cg==",
+      "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.3.5/erp-desktop_1.3.5_x64-setup.exe"
     }
   }
 }
