@@ -1,11 +1,11 @@
 {
-  "version": "1.3.6",
-  "notes": "Wersja 1.3.6 - Dodatkowe logi z konsoli",
-  "pub_date": "2026-08-27T09:30:00Z",
+  "version": "1.3.7",
+  "notes": "Wersja 1.3.7 - Wykluczenie błędu stałego z logów",
+  "pub_date": "2026-09-22T08:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OWd4ZnBNUG1OSGp0cWErY09SNHlNa1Q1aWJ4UXAyWGtWeDJRci83UGVQTmFTT25uWmRtSlFubk5VeklzWnNaSnZnK3hHNGNXSHgvbmdGeUJUYnVVYVFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3ODE1ODEwCWZpbGU6ZXJwLWRlc2t0b3BfMS4zLjZfeDY0LXNldHVwLmV4ZQo0U3NkaEJPaXhDdTN1YmJvNG1jeUFOMENVVlYyYWo1OHdMK2xnV1lScENiR0FwdzVUZ2N1Wllod1oyeTJYeE9lMlE1Ly9mbEtmb1RRazFLRWVTNDRBZz09Cg==",
-      "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.3.6/erp-desktop_1.3.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUYnNLTTE0RlB6OXFjbjA5RTQya2NYS0J1cWQrcXZDVXl0c0NEUDgvZ2JZTVM3SCtsMUYzZUwwdTYyMHBIdHBjekNmdVcvSUR3NHNVZlVZekRZRGRvZUVZSHE1blJiOGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDU3OTUyCWZpbGU6ZXJwLWRlc2t0b3BfMS4zLjdfeDY0LXNldHVwLmV4ZQorTHRoaEltSDdpb21XN00vWlNMQWR0anpXaDFQTmNWK3hobjAydXZ6OHFxYmczRUlrZG9OZkp4UU5sOVFURGdJSVIwemhlbHVSUCtJK0pib2RvVE1BUT09Cg==",
+      "url": "https://github.com/JakubPawlik/UTI-ERP-INSTALL/releases/download/v1.3.7/erp-desktop_1.3.7_x64-setup.exe"
     }
   }
 }
